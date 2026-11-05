@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RiseLock</string>
+    <string name="app_tagline">Wake Up Guarantee</string>
+    <string name="channel_alarm_name">Wake-Up Alarm</string>
+    <string name="channel_alarm_description">Plays loud ringtone when alarm goes off</string>
+</resources>
+

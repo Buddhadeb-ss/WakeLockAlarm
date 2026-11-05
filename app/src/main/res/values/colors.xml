@@ -1,0 +1,15 @@
+<resources>
+    <!-- Claude-inspired Warm Editorial Palette -->
+    <color name="canvas_light">#FAF8F5</color>
+    <color name="canvas_dark">#181614</color>
+    <color name="surface_light">#EFECE6</color>
+    <color name="surface_dark">#23201D</color>
+    <color name="text_primary_light">#1A1A18</color>
+    <color name="text_primary_dark">#ECE7E1</color>
+    <color name="text_secondary_light">#6E6B63</color>
+    <color name="text_secondary_dark">#9E988E</color>
+    <color name="accent_terracotta">#D97757</color>
+    <color name="accent_terracotta_dark">#C46344</color>
+    <color name="border_divider">#E2DFD7</color>
+</resources>
+

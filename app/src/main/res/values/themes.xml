@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.RiseLock" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/canvas_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/canvas_light</item>
+        <item name="android:windowBackground">@color/canvas_light</item>
+    </style>
+
+    <style name="Theme.RiseLock.Fullscreen" parent="Theme.RiseLock">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:showWhenLocked">true</item>
+        <item name="android:turnScreenOn">true</item>
+    </style>
+</resources>
+
